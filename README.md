@@ -1,0 +1,4 @@
+opencvTest
+==========
+
+Testing environment
